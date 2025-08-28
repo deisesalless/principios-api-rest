@@ -78,3 +78,5 @@ RESTful é um estilo de arquitetura para desenvolvimento de APIs que se baseia n
 ---
 
 Seguir esses princípios ajuda a tornar sua API mais **organizada, previsível, escalável e fácil de manter**. É um padrão adotado mundialmente em aplicações modernas.
+
+Bônus: [Status Code do HTTP, qual escolher de forma correta](https://github.com/deisesalless/principios-api-rest/blob/main/protocol-http.jpeg)
