@@ -1,6 +1,6 @@
 ### Os 6 Princípios da API RESTful
 
-RESTful é um estilo de arquitetura para desenvolvimento de APIs que se baseia nos princípios da Web e no protocolo HTTP. Para que uma API seja considerada RESTful ela precisa todos seguir os princípios:
+RESTful é um estilo de arquitetura para APIs baseado nos princípios da Web e no protocolo HTTP. Para que uma API seja considerada RESTful ela precisa seguir todos os princípios:
 
 ---
 
